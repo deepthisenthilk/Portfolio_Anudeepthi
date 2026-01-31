@@ -29,7 +29,7 @@ I am a data science and statistics student at the University of Georgia (UGA), p
 - **Languages:** Python, Java, R, SQL, JavaScript, Scala, HTML/CSS  
 - **Machine Learning:** PyTorch, Neural Networks, Regression, Classification, Feature Engineering, Model Evaluation  
 - **Data & Tools:** Pandas, NumPy, Data Pipelines, Statistical Modeling, ETL, Git, AWS, Tableau, Alteryx, Jupyter, Docker  
-- **Frontend/Backend:** React, Node.js, Flask, APIs, Responsive Design  
+- **Frontend/Backend:** APIs
 
 ---
 
