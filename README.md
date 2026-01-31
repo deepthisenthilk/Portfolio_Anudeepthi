@@ -5,7 +5,7 @@
 
 - **Name:** Anudeepthi Senthil Kumar  
 - **Email:** [anudeepthi.sk@gmail.com](mailto:anudeepthi.sk@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/anudeepthi-senthil-kumar](https://www.linkedin.com/in/anudeepthi-senthil-kumar)  
+- **LinkedIn:** [linkedin.com/in/anudeepthi-senthil-kumar](www.linkedin.com/in/anudeepthi-senthil-kumar-a22853249)  
 - **GitHub:** [github.com/deepthisenthilk](https://github.com/deepthisenthilk)  
 
 I am passionate about **machine learning, data science, statistical modeling, and software development**. My portfolio highlights projects that demonstrate my ability to solve real-world problems using data.
