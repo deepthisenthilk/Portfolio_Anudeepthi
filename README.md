@@ -1,7 +1,7 @@
 # Portfolio_Anudeepthi
 # Anudeepthi Senthil Kumar | Portfolio
 
-Welcome to my! This repository showcases my **projects, skills, and experience** as I pursue my B.S. in Data Science / M.S. in Statistics with a Minor in Computer Science at the University of Georgia (UGA).
+Welcome to my portfolio! This repository showcases my **projects, skills, and experience** as I pursue my B.S. in Data Science / M.S. in Statistics with a Minor in Computer Science at the University of Georgia (UGA).
 
 You can view the live portfolio here: [Portfolio Link](https://deepthisenthilk.github.io/Portfolio_Anudeepthi/)
 
