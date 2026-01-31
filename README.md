@@ -14,7 +14,7 @@ I am passionate about **machine learning, data science, statistical modeling, an
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-blue)](https://deepthisenthilk.github.io/Portfolio_Anudeepthi/)
 [![Email](https://img.shields.io/badge/Email-anudeepthi.sk@gmail.com-red)](mailto:anudeepthi.sk@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/anudeepthi-senthil-kumar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]((https://www.linkedin.com/in/anudeepthi-senthil-kumar-a22853249))
 
 ---
 
