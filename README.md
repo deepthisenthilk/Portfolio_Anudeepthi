@@ -62,7 +62,7 @@ You can view my live portfolio here: [Portfolio Link](https://deepthisenthilk.gi
 ## Contact
 
 - **Email:** [anudeepthi.sk@gmail.com](mailto:anudeepthi.sk@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/anudeepthi-senthil-kumar](https://www.linkedin.com/in/anudeepthi-senthil-kumar)  
+- **LinkedIn:** [linkedin.com/in/anudeepthi-senthil-kumar](linkedin.com/in/anudeepthi-senthil-kumar-a22853249)  
 - **GitHub:** [github.com/deepthisenthilk](https://github.com/deepthisenthilk)  
 
 ---
